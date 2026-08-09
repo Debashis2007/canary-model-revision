@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [05 — Model Monitoring & Behavior Observability](../05-model-monitoring-observability.md)  
-**Also references:** [01 — Inference serving](../01-llm-inference-serving.md), [09 — API routing](../09-multi-model-routing-api-platform.md)
+**Parent system design:** [05 — Model Monitoring & Behavior Observability](./05-model-monitoring-observability.md)  
+**Also references:** [01 — Inference serving](./01-llm-inference-serving.md), [09 — API routing](./09-multi-model-routing-api-platform.md)
 
 ## Users & problem
 

@@ -1,7 +1,7 @@
 # Design: Canary Model Revision
 
 **Project:** `canary-model-revision`  
-**Parent system design:** `05-model-monitoring-observability.md`
+**Parent system design:** [05 — Model Monitoring & Behavior Observability](../05-model-monitoring-observability.md)
 
 ## 1. What this POC demonstrates
 
