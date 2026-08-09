@@ -1,5 +1,7 @@
 # Use Case: Canary a New Model Revision
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Canary Model Revision — System Design #Shorts](https://youtu.be/dke9OsIgSBw)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
