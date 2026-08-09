@@ -1,5 +1,7 @@
 # Use Case: Canary a New Model Revision
 
+**YouTube walkthrough:** [Canary Model Revision — System Design #Shorts](https://youtu.be/dke9OsIgSBw)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -49,6 +51,9 @@ Reuse canary contract and signal taxonomy from **05**; wire into router from **0
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Canary Model Revision — System Design #Shorts](https://youtu.be/dke9OsIgSBw)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
